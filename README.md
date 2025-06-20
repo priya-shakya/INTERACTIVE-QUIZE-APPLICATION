@@ -45,3 +45,8 @@ For entertainment purposes, it can be used on trivia websites or social media ch
 The application can also be utilized in recruitment processes for preliminary aptitude or general knowledge screening, where candidates can answer timed quizzes online without the need for complex systems. Its lightweight, browser-based nature makes it ideal for mobile and desktop platforms alike.
 
 In conclusion, this interactive quiz application is a highly versatile tool that demonstrates essential web development skills, is easy to deploy, requires no external libraries or servers, and can be applied to educational, corporate, entertainment, survey, and recruitment scenarios efficiently.
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/9c7ada22-f7d6-4c3a-9bc2-dae8c987d4c9)
